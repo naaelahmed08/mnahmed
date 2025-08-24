@@ -256,4 +256,4 @@ Error generating stack: `+i.message+`
           0% { transform: translateX(0) translateY(0) }
           100% { transform: translateX(-50%) translateY(20%) }
         }
-      `})]})};function ep(){const[e,t]=Yt.useState(!0);return Yt.useEffect(()=>{const n=setTimeout(()=>t(!1),2200);return()=>clearTimeout(n)},[]),e?c.jsx(bf,{}):c.jsx(qf,{})}uc(document.getElementById("root")).render(c.jsx(Me.StrictMode,{children:c.jsx(ep,{})}));
+      `})]})};function ep(){const[e,t]=Yt.useState(!0);return Yt.useEffect(()=>{const n=setTimeout(()=>t(!1),5e3);return()=>clearTimeout(n)},[]),e?c.jsx(bf,{}):c.jsx(qf,{})}uc(document.getElementById("root")).render(c.jsx(Me.StrictMode,{children:c.jsx(ep,{})}));
